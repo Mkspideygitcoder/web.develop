@@ -1,1 +1,11 @@
-para
+h1
+{
+    background-color:red;
+    border:1px solid black;
+    text-align:center;
+}
+p
+{
+ border-style:dashed;
+ border-radius:46px;
+}
